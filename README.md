@@ -1,10 +1,16 @@
 # Yooz Public Roadmap
 
-Welcome to the public roadmap for Yooz - a privacy-first AI ecosystem that puts you in control of your digital intelligence.
+**Sovereign Intelligence. Built for the skeptical.**
+
+*Private AI. Zero Setup.*
+
+Welcome to the public roadmap for Yooz - privacy-first AI that runs entirely on your devices. No cloud. No tracking. No compromises.
 
 ## What is Yooz?
 
 Yooz is building a privacy-first local AI ecosystem that empowers individuals and families to own their digital intelligence - privately, locally, and seamlessly across all devices.
+
+Built for privacy realists who understand that your data should stay yours.
 
 **What You Get:**
 - AI that works completely offline on your devices
@@ -58,11 +64,12 @@ AI-accelerated keyboard with local processing:
 
 End-to-end encrypted messaging with AI features
 
-## Current Focus (November 2025)
+## Current Focus (Q4 2025)
 
-- [ ] Launch Yooz Notes public beta
-- [ ] Gather feedback from 500 initial users
-- [ ] Keyboard app alpha development
+- [x] Yooz Notes MVP complete
+- [ ] Launch Yooz Notes public beta (November 2025)
+- [ ] Gather feedback from initial users
+- [ ] Keyboard app development (Q1 2026)
 - [ ] Community building
 
 ## How to Engage
