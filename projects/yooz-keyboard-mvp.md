@@ -1,12 +1,14 @@
 # Yooz Keyboard MVP
 
-**Status:** Planning Phase
+**Sovereign Intelligence. Built for the skeptical.**
+
+**Status:** Development Phase
 **Target:** Q1 2026 Alpha Release
-**Platform:** iOS, Android
+**Platform:** iOS, Android, Desktop
 
 ## Overview
 
-Privacy-first AI-accelerated keyboard that processes everything locally on your device.
+Privacy-first AI-accelerated keyboard that processes everything locally on your device. Private AI. Zero Setup.
 
 ## Key Features
 
@@ -52,11 +54,12 @@ Privacy-first AI-accelerated keyboard that processes everything locally on your 
 
 ## Current Milestones
 
-### December 2025
-- [ ] Architecture design
-- [ ] Technology stack selection
+### November-December 2025
+- [x] Architecture design
+- [x] Technology stack selection
 - [ ] Proof of concept for local AI predictions
 - [ ] Multi-language support research
+- [ ] Initial development started
 
 ### Q1 2026
 - [ ] Alpha release with basic features

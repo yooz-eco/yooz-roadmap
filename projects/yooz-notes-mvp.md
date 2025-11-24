@@ -1,12 +1,14 @@
 # Yooz Notes MVP
 
+**Sovereign Intelligence. Built for the skeptical.**
+
 **Status:** MVP Complete, Preparing Public Beta
 **Target:** Q4 2025 Public Launch
 **Platform:** Web, iOS, Android (via Capacitor)
 
 ## Overview
 
-Privacy-first note-taking app with local AI capabilities and end-to-end encryption.
+Privacy-first note-taking app with local AI capabilities and end-to-end encryption. Private AI. Zero Setup.
 
 ## Key Features
 
